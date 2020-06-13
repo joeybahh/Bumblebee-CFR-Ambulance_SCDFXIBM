@@ -31,7 +31,7 @@ SCDF currently uses an app called myResponder to encourage certified Community F
 
 ### Hyperlink to Detailed Solution
 
-[Click here.] (https://github.com/shreyasriram4/Bumblebee-CFR-Ambulance_SCDFXIBM/blob/master/DESCRIPTION.md)
+[Click here.](https://github.com/shreyasriram4/Bumblebee-CFR-Ambulance_SCDFXIBM/blob/master/DESCRIPTION.md)
 
 ### Project Roadmap
 
