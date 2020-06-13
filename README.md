@@ -33,7 +33,7 @@ SCDF currently uses an app called myResponder to encourage certified Community F
 
 ### Project Roadmap
 
-[![project-timeline.png](https://i.postimg.cc/rmBFN2WZ/project-timeline.png)](https://postimg.cc/nj1Jn53q)
+[![Blue-and-Black-Timeline-Presentation.jpg](https://i.postimg.cc/TPnk3r0y/Blue-and-Black-Timeline-Presentation.jpg)](https://postimg.cc/jWd68nGK)
 
 ### Getting Started
 
