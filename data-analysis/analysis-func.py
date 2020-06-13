@@ -1,6 +1,3 @@
-Python 3.7.4 (v3.7.4:e09359112e, Jul  8 2019, 14:54:52) 
-[Clang 6.0 (clang-600.0.57)] on darwin
-Type "help", "copyright", "credits" or "license()" for more information.
 >>> import csv
 >>> def initAnalysis(x):
 	with open('modified.csv', 'w', newline='') as file:
@@ -15,4 +12,4 @@ Type "help", "copyright", "credits" or "license()" for more information.
 		writer.writerow({'District Number': 27, 'Number of Successful Responses': 3, 'Total Number of Incidents': 5, '% of Successful Responses': 0.6, 'Average Number of Nearby CFVs': 1.2})
 	return
 
->>> 
+>>> # function used for demo to refine data from incident-stats-scdf.csv to create modified.csv
