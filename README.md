@@ -37,6 +37,10 @@ SCDF currently uses an app called myResponder to encourage certified Community F
 
 ### Getting Started
 
+## Prerequisites
+
+curl -V
+
 ### Built with
 
 Flask: to build App Feature
