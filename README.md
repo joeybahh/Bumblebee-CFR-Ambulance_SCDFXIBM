@@ -40,11 +40,11 @@ SCDF currently uses an app called myResponder to encourage certified Community F
 ### Built with
 
 Flask: to build App Feature
-IBM API Connect: to manage APIs
+Node-Red: to integrate APIs to App Feature
 IBM Cloud Speech to Text Service: to convert 995 call speech to text
 IBM Natural Language Understanding API: to identify location of caller
 Google Maps API: to identify nearby CFRs
-Notifications API: to send notification to identified CFRs
+IBM Notifications API: to send notification to identified CFRs
 Python: for Data Refinement
 IBM Watson Studio: for Data Visualisation
 
